@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gradient-descent-sim/static/css/main.23fb8ae7.css",
+    "main.js": "/gradient-descent-sim/static/js/main.36fd0339.js",
+    "static/js/453.62df6632.chunk.js": "/gradient-descent-sim/static/js/453.62df6632.chunk.js",
+    "index.html": "/gradient-descent-sim/index.html",
+    "main.23fb8ae7.css.map": "/gradient-descent-sim/static/css/main.23fb8ae7.css.map",
+    "main.36fd0339.js.map": "/gradient-descent-sim/static/js/main.36fd0339.js.map",
+    "453.62df6632.chunk.js.map": "/gradient-descent-sim/static/js/453.62df6632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23fb8ae7.css",
+    "static/js/main.36fd0339.js"
+  ]
+}
