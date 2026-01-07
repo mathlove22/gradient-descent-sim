@@ -375,7 +375,7 @@ const App = () => {
                     </p>
                     <div className="bg-white p-3 rounded border border-yellow-300 font-mono text-center text-gray-800 space-y-2 flex flex-col items-center justify-center">
                       <div className="text-3xl"> {/* 크기 조정 */}
-                        <Latex formula="\displaystyle \frac{\partial E}{\partial a} = 2(ax - y)\cdot x" />
+                        <Latex formula="\displaystyle \frac{d E}{d a} = 2(ax - y)\cdot x" />
                       </div>
                       <div className="text-xs text-gray-500 mt-1">
                         (단순화된 형태: 오차 × 입력값 × 2)
@@ -389,7 +389,7 @@ const App = () => {
                     <p className="mb-2 text-gray-600">구해진 기울기의 반대 방향으로 이동합니다.</p>
                     <div className="bg-white p-3 rounded border border-green-300 font-mono text-center text-gray-800 flex justify-center">
                       <div className="text-3xl"> {/* 크기 조정 */}
-                        <Latex formula="\displaystyle a_{new} = a_{old} - \eta \times \frac{\partial E}{\partial a}" />
+                        <Latex formula="\displaystyle a_{new} = a_{old} - \eta \times \frac{d E}{d a}" />
                       </div>
                     </div>
                     <div className="mt-2 text-center text-xs flex justify-center items-center gap-1">
